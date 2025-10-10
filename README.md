@@ -3,6 +3,7 @@
 🎓 En reconversion professionnelle, je me forme actuellement au **développement web et mobile** à l’**École 42**.  
 💻 Passionné par la programmation, j’aime apprendre en construisant des projets concrets et collaboratifs.  
 
+
 🎓 Currently in a career change, I am training in **web and mobile development** at **École 42**.  
 💻 Passionate about coding, I enjoy learning by building real-world and collaborative projects.  
 
@@ -26,6 +27,7 @@
 - Approfondir mes compétences en **développement fullstack**  
 - Explorer le **développement mobile** (React Native, Flutter)  
 - Rechercher une **alternance ou un stage** pour valider mon cursus à l’**École 42**
+
   
 - Deepen my skills in **fullstack development**  
 - Explore **mobile development** (React Native, Flutter)  
